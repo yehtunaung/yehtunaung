@@ -26,7 +26,7 @@ Hello! I'm Ye Htun Aung, a passionate programmer who primarily works with PHP, H
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Livewire](https://img.shields.io/badge/-Livewire-4B9AE1?style=flat&logo=livewire&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ---
 
 ## 🔥 Recent Projects
