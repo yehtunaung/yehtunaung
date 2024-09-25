@@ -38,9 +38,9 @@ A brief description of the project.
 An overview of what this project is about.
 
 ---
-
 ## 🚀 Follow Me
 
 [![GitHub followers](https://img.shields.io/github/followers/yehtunaung?style=social)](https://github.com/yehtunaung)
 [![GitHub stars](https://img.shields.io/github/stars/yehtunaung?style=social)](https://github.com/yehtunaung)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ye-htun-aung-291107249/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ye-htun-aung-291107249/)
+
