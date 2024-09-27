@@ -4,7 +4,7 @@ Hello! I'm Ye Htun Aung, a passionate programmer who primarily works with PHP, H
 
 ## 🌟 Achievements
 
-- 🌍 Contributed to [Open Source Project Name](- Slims Libray for Myanmar [https://link-to-project](https://github.com/yehtunaung/Slims-Library.git)).
+- 🌍 Contributed to [Open Source Project Name](Slims Libray for Myanmar [https://link-to-project](https://github.com/yehtunaung/Slims-Library.git)).
 - 🎖️ Winner of [Hackathon Name](https://link-to-hackathon) 2023. 
 - 📜 Certified in [Programming Language or Technology](https://link-to-certificate).
 
