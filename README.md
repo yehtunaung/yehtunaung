@@ -1,6 +1,6 @@
 # 👨‍💻 Ye Htun Aung's Achievements
 
-Hello! I'm Ye Htun Aung, a passionate programmer who primarily works with PHP, HTML, CSS, JavaScript, Livewire, and Laravel. Below are some of my key achievements and contributions.
+Hello! I'm Ye Htun Aung, a passionate programmer who primarily works with PHP, HTML,Tailwind,Bootstrap, CSS, JavaScript, Livewire,Symfony, and Laravel. Below are some of my key achievements and contributions.
 
 ## 🌟 Achievements
 
