@@ -28,16 +28,6 @@ Hello! I'm Ye Htun Aung, a passionate programmer who primarily works with PHP, H
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ---
-
-## 🔥 Recent Projects
-
-### 1. [Project Name](https://github.com/yehtunaung/project-name)
-A brief description of the project.
-
-### 2. [Another Project](https://github.com/yehtunaung/another-project)
-An overview of what this project is about.
-
----
 ## 🚀 Follow Me
 
 [![GitHub followers](https://img.shields.io/github/followers/yehtunaung?style=social)](https://github.com/yehtunaung)
