@@ -12,7 +12,7 @@ Hello! I'm Ye Htun Aung, a passionate programmer who primarily works with PHP, H
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yehtunaung&show_icons=true&theme=radical)
-
+z
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yehtunaung&layout=compact&theme=radical)
 
 ---
@@ -29,5 +29,5 @@ Hello! I'm Ye Htun Aung, a passionate programmer who primarily works with PHP, H
 ---
 ## 🚀 Follow Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ye-htun-aung-henry-291107249/)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)[(https://www.linkedin.com/in/ye-htun-aung-henry-291107249/)]]
 
