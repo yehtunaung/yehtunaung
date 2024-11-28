@@ -29,5 +29,5 @@ Hello! I'm Ye Htun Aung, a passionate programmer who primarily works with PHP, H
 ---
 ## 🚀 Follow Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ye-htun-aung-291107249/](https://www.linkedin.com/in/ye-htun-aung-henry-291107249/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ye-htun-aung-henry-291107249/])
 
