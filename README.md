@@ -25,7 +25,4 @@ Hello! I'm Ye Htun Aung, a passionate programmer who primarily works with PHP, H
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ---
-## 🚀 Follow Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ye-htun-aung-henry-291107249/)
 
