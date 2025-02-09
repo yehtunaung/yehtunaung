@@ -9,12 +9,6 @@ Hello! I'm Ye Htun Aung, a passionate programmer who primarily works with PHP, H
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yehtunaung&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yehtunaung&layout=compact&theme=radical)
----
-
 ## 🛠️ Technologies I Use
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
