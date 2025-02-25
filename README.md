@@ -1,9 +1,11 @@
 # 👨‍💻 Ye Htun Aung's Achievements
 
-Hello! I'm Ye Htun Aung, a passionate programmer who primarily works with PHP, HTML,Tailwind,Bootstrap, CSS, JavaScript, Livewire,Symfony, and Laravel. Below are some of my key achievements and contributions.
+Hello! I'm Ye Htun Aung, a dedicated developer passionate about crafting efficient, elegant web solutions. My expertise spans **PHP**, **HTML**, **Tailwind CSS**, **Bootstrap**, **CSS**, **JavaScript**, **Livewire**, **Symfony**, and **Laravel**. Here are some highlights of my work:
 
-## 🌟 Achievements
+## 🌟 Key Achievements
 
-- 🌍 Contributed to [Open Source Project ]( [Slims Libray for Myanmar Source code](https://github.com/yehtunaung/Slims-Library.git)) ( [ECD Library Myanmar Website](http://elibrary.ecd.gov.mm/)).
-- 📜 Certified in [Programming Language or Technology(https://www.myanmaritc.com/)].
----
+- **Open Source Contributions:**  
+  Played a key role in the [Slims Library for Myanmar Source Code](https://github.com/yehtunaung/Slims-Library.git) project, a cornerstone of the [ECD Library Myanmar Website](http://elibrary.ecd.gov.mm/).
+
+- **Professional Certification:**  
+  Proudly certified in various programming languages and technologies by [Myanmar ITC](https://www.myanmaritc.com/).
