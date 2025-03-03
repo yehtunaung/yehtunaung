@@ -1,6 +1,6 @@
 # 👨‍💻 Ye Htun Aung's Achievements
 
-Hello! I'm Ye Htun Aung, a dedicated developer passionate about crafting efficient, elegant web solutions. My expertise spans **PHP**, **HTML**, **Tailwind CSS**, **Bootstrap**, **CSS**, **JavaScript**, **Livewire**, **Symfony**, and **Laravel**. Here are some highlights of my work:
+Hello! I'm Ye Htun Aung, a dedicated developer passionate about crafting efficient, elegant web solutions. My expertise spans **PHP**, **HTML**, **Tailwind CSS**, **Bootstrap**, **CSS**, **JavaScript**, **Livewire**, **Symfony**, and **Laravel**. Here are some highlights of my work
 
 ## 🌟 Key Achievements
 
